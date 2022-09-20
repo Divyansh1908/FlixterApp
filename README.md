@@ -40,8 +40,5 @@ The connection between 2 view controllers seemed interesting, and control view m
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [X] (1pt) Run your app on a real device.
 
-### App Walkthrough GIF
-<img src="https://i.imgur.com/bJrfzTs.gif" width=250><br>
-
 ### Notes
 It was tricky to implement auto orientation adjustment to the app.!
