@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/pqkwKD3.gif" width=250><br>
+
 
 ![](https://i.imgur.com/YnaQfdX.gif)
 
@@ -43,6 +43,7 @@ The connection between 2 view controllers seemed interesting, and control view m
 
 ### App Walkthrough GIF
 
+<img src="https://i.imgur.com/bJrfzTs.gif" width=250><br>
 
 ### Notes
 It was tricky to implement auto orientation adjustment to the app.!
