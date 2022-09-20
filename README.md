@@ -42,4 +42,3 @@ The connection between 2 view controllers seemed interesting, and control view m
 
 ### Notes
 It was tricky to implement auto orientation adjustment to the app.!
-
